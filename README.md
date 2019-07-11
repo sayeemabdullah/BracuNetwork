@@ -2,7 +2,7 @@
 
 ### BracuNetwork is a database website which I made using SQL,PHP,HTML,CSS & Bootstrap.
 <br>
-The Software/Server which I used is the XAMPP Control Panel, PHPMyAdmin & Visual Studio Code.
+The Softwares/Server which I used is the **XAMPP Control Panel, PHPMyAdmin & Visual Studio Code.**
 <br>
 A picture of the table structure named "TableStructure&Connection.png" has been uploaded which I also attached below. So you can easily make it in PHPMyAdmin or you can import the SQL file.
 
