@@ -1,6 +1,6 @@
 # BracuNetwork
 
-### BracuNetwork is a database website which I made using MySQL , PHP , HTML , JavaScript & Bootstrap.
+### BracuNetwork is a database website which I made using HTML, CSS, PHP, MySQL, JavaScript & Bootstrap.
 <br>
 The Softwares/Server which I used are " XAMPP Control Panel ", " PHPMyAdmin " & " Visual Studio Code ".
 <br>
